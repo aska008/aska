@@ -1,2 +1,1 @@
-# aska
-buat sendiri
+belajar
