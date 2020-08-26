@@ -1,0 +1,2 @@
+# aska
+buat sendiri
